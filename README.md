@@ -1,2 +1,2 @@
-# learning_git
+# learning-git
 aprendendo a usar git
