@@ -10,3 +10,4 @@ objetivos para o dia 27/09/2022:
 - subir o arquivo do trabalho em c de apc
 - praticar o uso de git
 - recomeçar o estudo de python
+- github: organizar, fazer um readme para o perfil e passar a usar inglês nele inteiro
